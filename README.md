@@ -1,0 +1,2 @@
+# wordsworthPy
+Wordsworth In Django
